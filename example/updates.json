@@ -1,7 +1,7 @@
 {
   "win32-ia32-prod": {
-    "update": "https://github.com/2captcha/rucaptcha-bot/releases/download/win32-ia32-prod-v1.9.4",
-    "install": "https://github.com/2captcha/rucaptcha-bot/releases/download/win32-ia32-prod-v1.9.4/CaptchaBotRS.Setup.1.9.4.exe",
-    "version": "1.9.4"
+    "update": "https://github.com/2captcha/rucaptcha-bot/releases/download/win32-ia32-prod-v1.9.5",
+    "install": "https://github.com/2captcha/rucaptcha-bot/releases/download/win32-ia32-prod-v1.9.5/CaptchaBotRS.Setup.1.9.5.exe",
+    "version": "1.9.5"
   }
 }
